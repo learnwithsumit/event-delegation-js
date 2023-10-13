@@ -1,0 +1,27 @@
+* {
+    font-family: "Anek Bangla", sans-serif;
+}
+
+.container {
+    margin: 50px;
+}
+
+.languages {
+    margin-top: 50px;
+}
+
+.highlight {
+    background-color: aquamarine;
+}
+
+h1 {
+    border-bottom: 1px solid gray;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    margin-bottom: 10px;
+}
